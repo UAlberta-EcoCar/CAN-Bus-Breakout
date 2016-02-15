@@ -34,3 +34,13 @@ eagle.epf
 *.info
 
 *.eps
+*.GBL
+*.GBO
+*.GBP
+*.GBS
+*.GML
+*.GTL
+*.GTO
+*.GTP
+*.GTS
+*.TXT
